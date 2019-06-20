@@ -3,7 +3,7 @@
 ## :book: Category
 0. [Introdiction](#Introduction)
 1. [Contacts](#Contacts)
-2. [Programming Language] (#Programming Language)
+2. [Programming Language] (#Programming_Language)
 
 
 
@@ -25,7 +25,7 @@
 - github : includesorrow
 - 전화번호 : 010-5164-7769
 
-## Programming Language 
+## Programming_Language 
 
 ### Java
   1. [Spring]
