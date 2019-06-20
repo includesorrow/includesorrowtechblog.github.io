@@ -22,7 +22,7 @@
 - github : includesorrow
 - 전화번호 : 010-5164-7769
 
-## 
+## 프로그래밍 언어
 - gg
 ### Java
   1. [Spring]
