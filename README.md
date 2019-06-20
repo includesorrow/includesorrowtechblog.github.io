@@ -1,6 +1,8 @@
 # Passive Coffee, Active Coding
 
 ## :book: Category
+0. [Introdiction](#Introduction)
+
 
 ## Introduction
 
