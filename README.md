@@ -3,10 +3,7 @@
 ## :book: Category
 0. [Introdiction](#Introduction)
 1. [Contacts](#Contacts)
-2. [Programming_Language] (#Programming_Language)
-
-
-
+2. [ProgrammingLanguage](#ProgrammingLanguage)
 ## Introduction
 
 2016년부터 빅데이터 분야에 관심을 가지게 되어 꾸준히 공부해온 프로그래머입니다. 
@@ -25,8 +22,8 @@
 - github : includesorrow
 - 전화번호 : 010-5164-7769
 
-## Programming_Language 
-
+## ProgrammingLanguage 
+- gg
 ### Java
   1. [Spring]
   2. [JSP]
