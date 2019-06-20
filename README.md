@@ -6,6 +6,11 @@
 2. [Programming Language](#programming)
 ## Introduction
 
+```
+사진
+```
+
+
 2016년부터 빅데이터 분야에 관심을 가지게 되어 꾸준히 공부해온 프로그래머입니다. 
 
 처음에는 뉴스나 알파고 등 하도 인터넷에서 빅데이터를 강조하길래 뭐길래 이렇게 강조하는걸까 싶어서 공부를 시작했습니다.
@@ -16,6 +21,8 @@
 
 항상 새로운 것이 있으면 공부하고 싶어 Youtube, Document를 찾아보는 호기심 많은 개발자입니다.
 
+대충이런식
+
 ## Contacts
 - 이메일 : includesorrow@gmail.com
 - LinkedIn : 신동준
@@ -23,7 +30,19 @@
 - 전화번호 : 010-5164-7769
 
 ## Programming Language
-- gg
+### Python
+  1. [Flask]
+  2. [Pandas]
+  3. [Numpy]
+  4. [Matplotlib]
+
+### R
+  1. [ggplot2]
+  2. [dplyr]
+  3. [Rmarkdown]
+  4. [Shiny]
+  5. [Machine Learning]
+
 ### Java
   1. [Spring]
   2. [JSP]
@@ -31,23 +50,23 @@
   4. [MyBatis]
   5. [RJava]
   
-### Python
-  1. [Flask]
-  2. [Pandas]
-  3. [Numpy]
-  4. [Matplotlib]
+### HTML
+  1. [JQuery]
+  2. [CSS]
+  3. [JavaScript]
 
-### 
+### SQL
+  1. [OracleSQL]
+  2. [MySQL]
 
-
-
-
-
-
-
-
-
- 2
+### Linux
+  1. [CentOS]
+ 
+### Hadoop-EcoSystem
+  1. [Hadoop]
+  2. [Flume]
+  3. [Hive]
+  4. [Spark]
 
 
 
