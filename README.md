@@ -25,7 +25,20 @@
 ## Programming Language 
 
 ### Java
-1. Spring
+  1. [Spring]
+  2. [JSP]
+  3. [JQuery]
+  4. [MyBatis]
+  5. [RJava]
+  
+### Python
+  1. [Flask]
+  2. [Pandas]
+  3. [Numpy]
+  4. [Matplotlib]
+
+### 
+
 
 
 
