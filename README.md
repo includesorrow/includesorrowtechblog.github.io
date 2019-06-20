@@ -3,7 +3,7 @@
 ## :book: Category
 0. [Introdiction](#Introduction)
 1. [Contacts](#Contacts)
-2. [ProgrammingLanguage] (#ProgrammingLanguage)
+2. [Programming Language](#Programming Language)
 ## Introduction
 
 2016년부터 빅데이터 분야에 관심을 가지게 되어 꾸준히 공부해온 프로그래머입니다. 
