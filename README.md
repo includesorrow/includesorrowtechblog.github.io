@@ -1,9 +1,13 @@
 # Passive Coffee, Active Coding
 
+```
+사진
+```
+
 ## :book: Category
 0. [Introdiction](#Introduction)
 1. [Contacts](#Contacts)
-2. [ProgrammingLanguage](#ProgrammingLanguage)
+2. [Programming Language](#Programming-Language)
 3. [Project](#Project)
 ## Introduction
 
@@ -30,7 +34,7 @@
 - github : includesorrow
 - 전화번호 : 010-5164-7769
 
-## ProgrammingLanguage
+## Programming Language
 ### Python
   1. [Flask](#test)
   2. [Pandas]
